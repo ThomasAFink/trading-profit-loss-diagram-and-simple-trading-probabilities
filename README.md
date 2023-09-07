@@ -9,7 +9,7 @@ pip3 install matplotlib
 ```
 
 ### The Data
-The input CSV format is as follows
+The input `report.csv` format is as follows:
 
 ```
 CloseTime,Instrument,Profit/Loss
