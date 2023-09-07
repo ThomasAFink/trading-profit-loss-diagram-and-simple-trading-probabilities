@@ -1,5 +1,5 @@
 # Trading Profit Loss Diagram
-Quick and easy calculation for profit loss of your trades over time. Track your performance in trading with this simple chart.
+Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with this simple chart.
 
 ### Prerequisites
 
