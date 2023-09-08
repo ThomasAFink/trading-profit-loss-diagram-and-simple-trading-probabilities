@@ -24,7 +24,8 @@ DD/MM/YYYY,USA 500, -00000.00
 
 ### The Result
 Results for  profit_loss.py
-<img width="1146" alt="Screenshot 2023-09-07 at 22 41 59" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/7a64cac3-ad63-4fc7-a1b5-08849210b128">
+
+<img width="100%" alt="Screenshot 2023-09-08 at 18 38 38" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/f5a2c1e9-e7ed-49dc-9c5f-1408dd53bdc9">
 
 
 Results for prob_down_day.py
@@ -33,7 +34,7 @@ Key Insights:
 Probability P(n) gives the odds of observing a "down day" after n consecutive "up days".
 This is crucial for traders and analysts to understand potential bearish reversals after bullish runs.
 
-<img width="678" alt="Screenshot 2023-09-08 at 18 34 51" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/9e22fb23-daed-4b5f-832d-aa7b8d1f4df8">
+<img width="100%" alt="Screenshot 2023-09-08 at 18 34 51" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/9e22fb23-daed-4b5f-832d-aa7b8d1f4df8">
 
 
 ```
@@ -110,7 +111,7 @@ Key Insights:
 Probability P(n) provides the odds of witnessing an "up day" after n consecutive "down days".
 Essential knowledge for those looking to capitalize on potential bullish reversals after bearish sequences.
 
-<img width="630" alt="Screenshot 2023-09-08 at 18 35 12" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/0f6ee8ac-d1c2-4246-906c-1f6c3f09e1ef">
+<img width="100%" alt="Screenshot 2023-09-08 at 18 35 12" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/0f6ee8ac-d1c2-4246-906c-1f6c3f09e1ef">
 
 
 ```
