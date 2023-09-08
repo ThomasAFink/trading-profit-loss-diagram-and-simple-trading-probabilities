@@ -166,4 +166,4 @@ Number of occurrences of 8 consecutive down days followed by at least one up day
 ```
 
 
-Note: The aforementioned probabilities are calculated based on historical data and patterns, and while useful, they should be interpreted with caution. Always consider other factors and perform further analysis before making any investment decisions.
+<b> Note: The aforementioned probabilities are calculated based on historical data and patterns, and while useful, they should be interpreted with caution. Always consider other factors and perform further analysis before making any investment decisions.</b>
