@@ -28,6 +28,14 @@ Results for  profit_loss.py
 
 
 Results for prob_down_day.py
+
+Key Insights:
+Probability P(n) gives the odds of observing a "down day" after n consecutive "up days".
+This is crucial for traders and analysts to understand potential bearish reversals after bullish runs.
+
+<img width="678" alt="Screenshot 2023-09-08 at 18 34 51" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/9e22fb23-daed-4b5f-832d-aa7b8d1f4df8">
+
+
 ```
 [*********************100%%**********************]  1 of 1 completed
                   Open        High         Low       Close   Adj Close     Volume  daily_return state
@@ -98,6 +106,13 @@ Number of occurrences of 12 consecutive up days followed by at least one down da
 
 Results for prob_up_day.py
 
+Key Insights:
+Probability P(n) provides the odds of witnessing an "up day" after n consecutive "down days".
+Essential knowledge for those looking to capitalize on potential bullish reversals after bearish sequences.
+
+<img width="630" alt="Screenshot 2023-09-08 at 18 35 12" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/0f6ee8ac-d1c2-4246-906c-1f6c3f09e1ef">
+
+
 ```
 [*********************100%%**********************]  1 of 1 completed
                   Open        High         Low       Close   Adj Close     Volume  daily_return state
@@ -148,3 +163,6 @@ Number of occurrences of 7 consecutive down days followed by at least one up day
 Odds for at least one up day after 8 down days: 1.00000
 Number of occurrences of 8 consecutive down days followed by at least one up day: 1
 ```
+
+
+Note: The aforementioned probabilities are calculated based on historical data and patterns, and while useful, they should be interpreted with caution. Always consider other factors and perform further analysis before making any investment decisions.
