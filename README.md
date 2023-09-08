@@ -1,4 +1,4 @@
-# Trading Profit Loss Diagram
+# Trading Profit Loss Diagram and Simple Trading Probabilities
 Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with this simple chart. 
 
 Some basic mean reversion problability calculations to get you started.
