@@ -1,7 +1,7 @@
 # Trading Profit Loss Diagram and Simple Trading Probabilities
 
 ### Part 1. Trader Performance
-Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with these simple charts. 
+Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with these simple distributions and probabilities of your trades. 
 
 ### Part 2. Stock Market Data
 Some basic mean reversion problability calculations to get you started.
