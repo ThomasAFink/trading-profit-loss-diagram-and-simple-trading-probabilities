@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Read in the CSV file as a pandas dataframe
-df = pd.read_csv('report.csv')
+df = pd.read_csv('../report.csv')
 
 # Convert Profit/Loss column to numeric data type (remove commas and euro symbols)
 #df['Profit/Loss'] = pd.to_numeric(df['Profit/Loss'].str.replace(',', '').str.replace('€', ''))
