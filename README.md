@@ -3,7 +3,7 @@
 ### Part 1. Trader Performance
 Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with these simple charts. 
 
-### Part 2. Stock Markert Data
+### Part 2. Stock Market Data
 Some basic mean reversion problability calculations to get you started.
 
 ## Prerequisites
