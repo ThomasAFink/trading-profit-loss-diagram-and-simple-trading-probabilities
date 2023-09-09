@@ -4,7 +4,7 @@
 Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with these simple distributions and probabilities of your trades. 
 
 ### Part 2. Stock Market Data
-Some basic mean reversion problability calculations to get you started.
+Some basic mean reversion problability calculations to get you started using the $SPY ETF.
 
 ## Prerequisites
 
