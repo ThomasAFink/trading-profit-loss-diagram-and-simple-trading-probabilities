@@ -1,19 +1,25 @@
 # Trading Profit Loss Diagram and Simple Trading Probabilities
-Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with this simple chart. 
 
+### Part 1. Trader Performance
+Quick and easy calculation for profit loss of your trades over time using Python. Track your performance in trading with these simple charts. 
+
+### Part 2. Stock Markert Data
 Some basic mean reversion problability calculations to get you started.
 
-### Prerequisites
+## Prerequisites
 
 ```
 pip3 install pandas
 pip3 install matplotlib
 pip3 install yfinance
 pip3 install numpy
+pip3 install pandas
+pip3 install scipy
+pip3 install seaborn
 ```
-
+## Part 1. Trader Performance
 ### The Data
-For profit_loss.py The input `report.csv` format is as follows:
+For we use the trader's data the input `report.csv` format is as follows of all the trades made:
 
 ```
 CloseTime,Instrument,Profit/Loss
@@ -23,9 +29,29 @@ DD/MM/YYYY,USA 500, -00000.00
 
 
 ### The Result
-Results for  profit_loss.py
+Results for  profit_loss.py shows all the trades over time.
 
 <img width="100%" alt="Screenshot 2023-09-08 at 18 38 38" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/f5a2c1e9-e7ed-49dc-9c5f-1408dd53bdc9">
+
+profit_loss_distributions.py shows a normal bell curve of all the trader's trades. Most of my trades are immediately stopped out just below zero.
+
+<img width="49%" alt="Screenshot 2023-09-09 at 21 24 37" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/a1a4e946-e77b-44e7-85a6-582be23aa93d">
+
+<img width="49%" alt="Screenshot 2023-09-09 at 21 24 23" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/38687324-a320-476e-9851-43533cb41942">
+
+
+trader_prob_of_profit.py shows the odds of a trader being profitable on a trade. I am a profitable trader with 143% yoy and yet my odds of winning are 30:70. More importantly, I split these odds into four categories. While I am doing significantly better on larger trades, I am significantly underperforming on smaller trades, and that is where I need to improve. This could best be remedied by moving my stop-loss orders just above breakeven, rather than just below.
+
+Prob of profit:  29.411764705882355 Prob of loss:  70.27863777089783
+
+Net of profit/loss:  *******
+
+<img width="100%" alt="Screenshot 2023-09-09 at 21 05 40" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/939f144e-fc41-4934-b810-dcd4c41fd8f9">
+
+
+
+
+## Part 2. Stock Markert Data
 
 
 Results for prob_down_day.py
