@@ -33,7 +33,7 @@ Results for  profit_loss.py shows all the trades over time.
 
 <img width="100%" alt="Screenshot 2023-09-08 at 18 38 38" src="https://github.com/ThomasAFink/trading-profit-loss-diagram/assets/53316058/f5a2c1e9-e7ed-49dc-9c5f-1408dd53bdc9">
 
-profit_loss_distributions.py shows a normal bell curve of all the trader's trades. Most of my trades are immediately stopped out just below zero.
+profit_loss_distributions.py shows a normal bell curve of all the trader's trades. Most of my trades are immediately stopped out just below $0.
 
 <img width="49%" alt="Screenshot 2023-09-09 at 21 24 37" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/a1a4e946-e77b-44e7-85a6-582be23aa93d">
 
@@ -46,7 +46,8 @@ Prob of profit:  29.411764705882355 Prob of loss:  70.27863777089783
 
 Net of profit/loss:  *******
 
-<img width="100%" alt="Screenshot 2023-09-09 at 21 05 40" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/939f144e-fc41-4934-b810-dcd4c41fd8f9">
+<img width="1386" alt="Screenshot 2023-09-09 at 21 28 51" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/c3c34031-d6c6-40ab-bcff-10cf9b0ca638">
+
 
 
 
