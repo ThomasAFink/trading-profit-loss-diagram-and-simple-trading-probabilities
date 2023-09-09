@@ -52,7 +52,7 @@ Net of profit/loss:  *******
 
 
 
-## Part 2. Stock Markert Data
+## Part 2. Stock Market Data
 
 
 Results for prob_down_day.py
