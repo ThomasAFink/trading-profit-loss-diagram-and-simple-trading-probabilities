@@ -42,7 +42,18 @@ profit_loss_distributions.py shows a normal bell curve of all the trader's trade
 
 trader_prob_of_profit.py shows the odds of a trader being profitable on a trade. I am a profitable trader with 143% yoy and yet in stark contrast my odds of profit on a single trade are 30:70. More importantly, I split these odds into six categories. While I am doing significantly better on larger trades, I am significantly underperforming on smaller trades, and that is where I need to improve. This could best be remedied by moving my stop-loss orders just above breakeven, rather than just below.
 
-Prob of profit:  29.411764705882355 Prob of loss:  70.27863777089783
+<img width="100%" alt="Screenshot 2023-09-10 at 02 18 40" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/94d5c686-7061-48ee-bd40-4fa4a0091674">
+
+<img width="100%" alt="Screenshot 2023-09-10 at 02 18 46" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/e4d1c95d-0719-4a32-ac1f-ef401ce7a7a8">
+
+<img width="100%" alt="Screenshot 2023-09-10 at 02 18 54" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/f6696a9a-2fe2-4c2a-8c78-25201b591b33">
+
+<img width="100%" alt="Screenshot 2023-09-10 at 02 19 26" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/41820f4d-a4a5-4e70-9033-ba26d779332f">
+
+
+Prob of profit:  29.411764705882355 
+
+Prob of loss:  70.27863777089783
 
 Net of profit/loss:  *******
 
