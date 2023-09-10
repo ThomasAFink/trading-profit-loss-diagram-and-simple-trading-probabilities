@@ -46,22 +46,17 @@ trader_prob_of_profit.py shows the odds of a trader being profitable on a trade.
 
 <img width="100%" alt="Screenshot 2023-09-10 at 02 18 46" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/e4d1c95d-0719-4a32-ac1f-ef401ce7a7a8">
 
-<img width="100%" alt="Screenshot 2023-09-10 at 02 18 54" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/f6696a9a-2fe2-4c2a-8c78-25201b591b33">
-
-<img width="100%" alt="Screenshot 2023-09-10 at 02 19 26" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/41820f4d-a4a5-4e70-9033-ba26d779332f">
-
-
 Prob of profit:  29.411764705882355 
 
 Prob of loss:  70.27863777089783
 
 Net of profit/loss:  *******
 
+<img width="100%" alt="Screenshot 2023-09-10 at 02 18 54" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/f6696a9a-2fe2-4c2a-8c78-25201b591b33">
+
+<img width="100%" alt="Screenshot 2023-09-10 at 02 19 26" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/41820f4d-a4a5-4e70-9033-ba26d779332f">
+
 <img width="1386" alt="Screenshot 2023-09-09 at 21 28 51" src="https://github.com/ThomasAFink/trading-profit-loss-diagram-and-simple-trading-probabilities/assets/53316058/c3c34031-d6c6-40ab-bcff-10cf9b0ca638">
-
-
-
-
 
 ## Part 2. Stock Market Data
 
